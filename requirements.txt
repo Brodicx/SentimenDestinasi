@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+gunicorn
+streamlit
+matplotlib
+seaborn
+wordcloud
+plotly
+Pillow
+textblob
+flask
